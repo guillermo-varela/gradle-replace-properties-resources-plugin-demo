@@ -2,7 +2,7 @@ plugins {
   id 'java'
   id 'application'
   id 'net.researchgate.release' version '2.3.4'
-  id 'com.blogspot.nombre-temp.replace.properties.resources' version '0.0.3'
+  id 'com.blogspot.nombre-temp.replace.properties.resources' version '0.0.4'
 }
 
 sourceCompatibility = 1.8
